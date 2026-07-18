@@ -1,5 +1,4 @@
 #student-management-system
-
 students = [
     [101, "Rahul", 20, "CSE", 85],
     [102, "Priya", 19, "ECE", 90],
